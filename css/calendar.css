@@ -1,0 +1,33 @@
+.Monday-box{
+  width: 700px;
+  display: inline-block;
+  background-color:  #64C9CF;
+  text-align: center;
+  border-style: none;
+  margin: 10PX;
+  font-family: sans-serif;
+  height: inherit;
+
+}
+a{
+  text-decoration: none;
+  font-size: 25px;
+  color:white;
+}
+h2{font-size: 40px;
+  background-color:#FFB740;
+  color: white;
+  padding: 15px;
+  margin: 0;
+}
+.Monday{
+  background-color: #222831;
+}
+.body{
+  font-family: sans-serif;
+margin: auto;}
+
+
+.Timetableall{
+  text-align: center;
+}
